@@ -11,6 +11,7 @@ Welcome to PyCryptoMan! This repository is a journey through the fascinating wor
 To explore the projects in this repository, simply clone the repository to your local machine and navigate to the project directory you're interested in.
 
 ## Contact
-If you have any questions or suggestions, feel free to reach out to me at [LinkedIn: https://www.linkedin.com/in/abdelrahmanaltayeb/].
+If you have any questions or suggestions, feel free to reach out to me at 
+[LinkedIn: https://www.linkedin.com/in/abdelrahmanaltayeb/].
 
 Happy exploring!
