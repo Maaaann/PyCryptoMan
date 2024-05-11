@@ -37,11 +37,6 @@ e = 2**16 + 1  # it's recommended to use 2 **16 + 1
 phi = (p-1)*(q-1)  # totient => n
 d = pow(e, -1, phi)
 
-#_________Storing_The_PUBLIC_KEY_In_File________#
-with open("public.key", "w") as f:
-    f.write(str(e) + "\n" )
-    f.write(str(n))
-
 #---------------------------------------------#
 #______PUBLIC_KEY_____# #______PRIVATE_KEY____#
 #________(e,n)________# #________(d,n)________#
@@ -50,6 +45,12 @@ with open("public.key", "w") as f:
 #____Generating_signature_With_the_Private_Key____#
 signature = pow(H, d, n)  #  H**d % n
 
-#_________Storing_The_Signature_In_File________#
+#_________Storing_The_Signature_In_File___________#
 signatureFile = open("signature.txt", "w")
 signatureFile.write(str(signature))
+
+
+#_________Storing_The_PUBLIC_KEY_In_File_________#
+with open("public.key", "w") as f:
+    f.write(str(e) + "\n" )
+    f.write(str(n))
