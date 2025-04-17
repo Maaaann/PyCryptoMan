@@ -55,4 +55,3 @@ with open("public.key", "w") as f:
     f.write(str(e) + "\n" )
     f.write(str(n))
 
-#test
