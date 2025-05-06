@@ -11,5 +11,5 @@ It ensures the integrity and authenticity of firmware images, providing a reliab
 - Comprehensive logging and auditing capabilities.
 
 ## Installation
-1. Clone the repository: `https://github.com/abdelrahmaneltayeb/PyCryptoMan.git`
-2. Navigate to the project directory: `cd PyCryptoMan`
+1. Clone the repository: `https://github.com/Maaaann/PyCryptoMan.git`
+3. Navigate to the project directory: `cd PyCryptoMan`
