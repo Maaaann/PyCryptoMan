@@ -6,7 +6,7 @@ Course Name: Cycle '3' Cryptography
 Instructor: Mohamed Tarek
 Date Created: May 7, 2024
 Python Version: 3.12.3
-GitHub: https://github.com/abdelrahmaneltayeb/PyCryptoMan
+GitHub: https://github.com/Maaaann/PyCryptoMan
 LinkedIn: https://www.linkedin.com/in/abdelrahmanaltayeb/
 """
 
